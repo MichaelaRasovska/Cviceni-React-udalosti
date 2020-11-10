@@ -1,5 +1,9 @@
 # Cvičení: React události
 
+Náhled řešení na Netlify [cviceni-react-udalosti.netlify.app](https://cviceni-react-udalosti.netlify.app/).
+
+Kód ve složce `src`.
+
 ## Zadání
 
 1. Stáhni si repozitář jako [ZIP](https://github.com/Czechitas-podklady-WEB/Cviceni-React-udalosti/archive/zadani.zip) nebo ho k sobě naklonuj `git clone https://github.com/Czechitas-podklady-WEB/Cviceni-React-udalosti.git`
