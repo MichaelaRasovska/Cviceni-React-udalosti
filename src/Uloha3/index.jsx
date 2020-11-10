@@ -8,16 +8,24 @@ export const Uloha3 = () => {
 			Které roční období je ve střední Evropě nejteplejší?
 			<ol>
 				<li>
-					<button>jaro</button>
+					<button onClick={() => console.log('Uživatel zvolil jaro')}>
+						jaro
+					</button>
 				</li>
 				<li>
-					<button>léto</button>
+					<button onClick={() => console.log('Uživatel zvolil léto')}>
+						léto
+					</button>
 				</li>
 				<li>
-					<button>podzim</button>
+					<button onClick={() => console.log('Uživatel zvolil podzim')}>
+						podzim
+					</button>
 				</li>
 				<li>
-					<button>zima</button>
+					<button onClick={() => console.log('Uživatel zvolil zimu')}>
+						zima
+					</button>
 				</li>
 			</ol>
 		</>
